@@ -72,7 +72,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[styled-components](https://github.com/styled-components/styled-components)**
 - **[react-navigation](https://github.com/react-navigation/react-navigation)**
 
-> Veja o arquivo [package.json](https://github.com/grochavieira/MoveIt/blob/master/web/package.json)
+> Veja o arquivo [package.json](https://github.com/danielwsilva/lemaj-mobile/blob/main/package.json)
 
 #### **Utilitários**
 
